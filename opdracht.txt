@@ -1,0 +1,43 @@
+Hoe werkt het?
+Lingo is een woordspel dat een combinatie is van Mastermind en Bingo. Twee teams van twee mensen gaan met elkaar de strijd aan.
+
+Het team dat aan de beurt is krijgt 5 pogingen om een woord te raden waarvan de beginletter gegeven is. De lange Ĳ telt als twee letters i en j.
+
+Bij elke poging wordt aangegeven:
+
+Welke letters op de juiste plaats staan (groen gekleurd)
+Welke letters in het woord zitten maar op een verkeerde plaats (geel gekleurd).
+Hierna start een nieuwe poging waarin alle goed geraden letters al ingevuld staan.
+
+Als het team een woord goed raad dan moet het team in de ballenbak grabbelen (naar 2 ballen) om zo een lijn op een bingo kaart (van 4 bij 4) te krijgen. In de bak zitten naast ballen met nummers (even nummers voor team 1, oneven voor team 2) ook 3 groene en 3 rode ballen.
+
+ 
+
+Een team wint het spel als ze:
+
+3 groene ballen hebben getrokken
+Een lijn (horizontaal, verticaal of diagonaal) op de kaart hebben
+10 woorden hebben goed geraden. 
+Een team verliest het spel als ze:
+
+3 rode ballen hebben getrokken
+3 woorden op rij fout hebben geraden. 
+ 
+
+Functionele eisen
+
+Functionele eisen beschrijven welke functionaliteit je eindproduct moet bevatten. Het spel moet aan de volgende functionele eisen voldoen:
+
+Het spel (de code) selecteert willekeurig een woord uit de woordenlijst wat door de speler moet worden geraden.
+Het spel toont de beginletter van het woord.
+Een team krijgt 5 pogingen om het woord te raden.
+Bij elke poging worden de letters die op de juiste plaats staan groen gekleurd. Letters die wel in het woord zitten maar op de verkeerde plaats staan worden geel getoond.
+Bij een nieuwe poging (tweede of later) moeten de goed gerade letters al ingevuld staan.
+Wanneer een speler het woord goed raad mag deze in de ballenbak grabbelen.
+Als er een rode bal in de eerste poging gegrabbelt wordt, mag het team geen tweede keer grabbelen.
+Aan het einde van het spel wordt er gevaargd of ze nog een keer willen spelen.
+ 
+
+Tip: start met 1 van de twee onderdelen en probeer niet alles tegelijk te doen.
+
+Woordenlijst

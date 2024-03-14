@@ -1,0 +1,251 @@
+<mxfile host="Electron" modified="2024-03-13T11:38:21.901Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="8yZ-aX9AXtpAf9MGMHbe" version="22.0.3" type="device">
+  <diagram name="Pagina-1" id="1c2EJwnlDSm5bEGYF_tv">
+    <mxGraphModel dx="890" dy="428" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="U2weEDsmZP41WpPP3teQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-1" target="U2weEDsmZP41WpPP3teQ-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-1" value="START" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="10" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-2" target="U2weEDsmZP41WpPP3teQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-2" target="U2weEDsmZP41WpPP3teQ-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-2" value="Vraag naam voor team" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-4" target="U2weEDsmZP41WpPP3teQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-4" value="Creer varialbe voor 2 teams met 2personen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-9" target="U2weEDsmZP41WpPP3teQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="560" y="310" />
+              <mxPoint x="390" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-9" value="Als naam in team zit voeg getal toe&lt;br&gt;(Jacco 1)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-13" target="U2weEDsmZP41WpPP3teQ-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-30" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-29">
+          <mxGeometry x="-0.5141" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-13" target="U2weEDsmZP41WpPP3teQ-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-34" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-33">
+          <mxGeometry x="-0.6945" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-13" value="Als team 2 mensen heeft" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="330" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-21" target="U2weEDsmZP41WpPP3teQ-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-21" value="zet teamvraag naar 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-25" target="U2weEDsmZP41WpPP3teQ-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-25" value="Maak variable met een random word van de woordenlijst" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-35" target="U2weEDsmZP41WpPP3teQ-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-35" value="Maak een string met _ en de eerste letter staat er" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-37" target="U2weEDsmZP41WpPP3teQ-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-37" target="U2weEDsmZP41WpPP3teQ-101">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-103" value="Daarna" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-102">
+          <mxGeometry x="0.04" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-37" value="Loop 5 keer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-39" target="U2weEDsmZP41WpPP3teQ-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-39" value="Vraag een woord met de lengte van antwoord" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-41" target="U2weEDsmZP41WpPP3teQ-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-41" value="Loop door het woord" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="800" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-43" target="U2weEDsmZP41WpPP3teQ-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-55" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-53">
+          <mxGeometry x="-0.1943" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-43" target="U2weEDsmZP41WpPP3teQ-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-58" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-57">
+          <mxGeometry x="0.076" y="3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-43" target="U2weEDsmZP41WpPP3teQ-65">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-67" value="woord == antwoord" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-66">
+          <mxGeometry x="-0.3143" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-43" value="Als de letter in het antwoord zit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="900" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-51" value="Pass" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-56" target="U2weEDsmZP41WpPP3teQ-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-61" value="Ja" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-60">
+          <mxGeometry x="-0.124" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-56" target="U2weEDsmZP41WpPP3teQ-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-64" value="Nee" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-63">
+          <mxGeometry x="-0.0857" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-56" value="Als de letter op de goede plek zit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="900" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-59" value="Maak letter groen en voeg de letter toe aan _ variable" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-62" value="Maak letter geel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-65" target="U2weEDsmZP41WpPP3teQ-74">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-65" target="U2weEDsmZP41WpPP3teQ-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-65" value="geef 2 ballen aan dat team" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-69" value="Volgende team is aan de beurt" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-74" target="U2weEDsmZP41WpPP3teQ-75">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-79" value="Groen" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-78">
+          <mxGeometry x="-0.1147" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-74" target="U2weEDsmZP41WpPP3teQ-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-90" value="Rood" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-88">
+          <mxGeometry x="0.1267" y="5" relative="1" as="geometry">
+            <mxPoint y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-74" target="U2weEDsmZP41WpPP3teQ-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-93" value="Anders" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="U2weEDsmZP41WpPP3teQ-92">
+          <mxGeometry x="-0.31" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-74" value="Kleur van de bal" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1180" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-75" target="U2weEDsmZP41WpPP3teQ-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-75" value="Voeg 1 toe aan groene ballen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-81" value="3 ballen = gewonnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="700" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-86" target="U2weEDsmZP41WpPP3teQ-87">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-86" value="Voeg 1 toe aan rood ballen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1205" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-87" value="3 ballen = verloren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-91" target="U2weEDsmZP41WpPP3teQ-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="1430" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-91" value="Voeg bal toe aan bingo kaart" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-94" value="Bingo = gewonnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-97" target="U2weEDsmZP41WpPP3teQ-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-97" value="Voeg 1 toe aan geraden &amp;amp; Fouten = 0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-99" value="10 geraden = gewonnen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-101" target="U2weEDsmZP41WpPP3teQ-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="U2weEDsmZP41WpPP3teQ-101" target="U2weEDsmZP41WpPP3teQ-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-101" value="Voeg 1 toe aan fout" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="U2weEDsmZP41WpPP3teQ-104" value="3 fout = verloren" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

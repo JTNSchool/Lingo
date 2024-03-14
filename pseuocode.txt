@@ -1,0 +1,31 @@
+creer variable voor 2 teams met 2 personen per team
+vraag voor namen tot de teams vol zijn
+    als er namen double in zitten hernoem ze naar jacco 1 en jacco 2 bijv
+maak een random woord variable aan vanuit de gemporteerde lijst
+maak variable met begin letter en _ aan
+loop 5 keer
+    vraag woord
+    als het woord te lang is of te kort vergleken met woord dan geef error
+    loop woord
+        als letter op het goede plek staat maak letter groen
+        als het op de verkeerde plek zit maak letter geel
+        anders pass
+        als woord == antwoord dan 
+            +1 aan geraden
+            fout = 0
+            geef 2 ballen aan team
+            als bal kleur rood is
+                +1 rood
+                als rood = 3 dan verloren
+            als bal kleur groen is
+                +1 groen
+                als groen = 3 dan Gewonnen
+            als bal getal op bingo is
+                +1 bingokaart
+                als bingo dan Gewonnens
+    als woord niet goed
+        +1 aan fout
+        als 3 fouten van Verloren
+        anders laat volgende team
+
+    
